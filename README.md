@@ -1,1 +1,1 @@
-<a href="">Playable DEMO</a>
+<a href="https://adezar.github.io/AStarDemo">Playable DEMO</a>
